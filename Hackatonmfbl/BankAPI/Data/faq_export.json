@@ -1,0 +1,462 @@
+{
+  "index": [
+    {
+      "original_question": "Možete li mi objasniti šta je investicioni kredit?",
+      "normalized_question": "možete li mi objasniti šta je investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Investicioni kredit je namijenjen za veće lične investicije poput renoviranja stana ili kuće, kupovine opreme, ulaganja u privatni posao, nabavke alata, vozila ili bilo koje druge investicije koje povećavaju vrijednost vaše imovine ili poboljšavaju uslove života. Kredit se odobrava kao namjenski i trošenje se dokumentuje u skladu s procedurama banke."
+    },
+    {
+      "original_question": "Za šta sve mogu koristiti investicioni kredit?",
+      "normalized_question": "za šta sve mogu koristiti investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Investicioni kredit je namijenjen za veće lične investicije poput renoviranja stana ili kuće, kupovine opreme, ulaganja u privatni posao, nabavke alata, vozila ili bilo koje druge investicije koje povećavaju vrijednost vaše imovine ili poboljšavaju uslove života. Kredit se odobrava kao namjenski i trošenje se dokumentuje u skladu s procedurama banke."
+    },
+    {
+      "original_question": "Koje su namjene investicionog kredita?",
+      "normalized_question": "koje su namjene investicionog kredita?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Investicioni kredit je namijenjen za veće lične investicije poput renoviranja stana ili kuće, kupovine opreme, ulaganja u privatni posao, nabavke alata, vozila ili bilo koje druge investicije koje povećavaju vrijednost vaše imovine ili poboljšavaju uslove života. Kredit se odobrava kao namjenski i trošenje se dokumentuje u skladu s procedurama banke."
+    },
+    {
+      "original_question": "Da li mogu dobiti kredit za razvoj mog privatnog posla?",
+      "normalized_question": "da li mogu dobiti kredit za razvoj mog privatnog posla?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Investicioni kredit je namijenjen za veće lične investicije poput renoviranja stana ili kuće, kupovine opreme, ulaganja u privatni posao, nabavke alata, vozila ili bilo koje druge investicije koje povećavaju vrijednost vaše imovine ili poboljšavaju uslove života. Kredit se odobrava kao namjenski i trošenje se dokumentuje u skladu s procedurama banke."
+    },
+    {
+      "original_question": "Koliki rok otplate mogu dobiti na investicioni kredit?",
+      "normalized_question": "koliki rok otplate mogu dobiti na investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Investicioni kredit je namijenjen za veće lične investicije poput renoviranja stana ili kuće, kupovine opreme, ulaganja u privatni posao, nabavke alata, vozila ili bilo koje druge investicije koje povećavaju vrijednost vaše imovine ili poboljšavaju uslove života. Kredit se odobrava kao namjenski i trošenje se dokumentuje u skladu s procedurama banke."
+    },
+    {
+      "original_question": "Koja je dokumentacija potrebna za investicioni kredit?",
+      "normalized_question": "koja je dokumentacija potrebna za investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Za odobrenje investicionog kredita potrebna je potvrda o redovnim primanjima, lična karta i dokumentacija koja potvrđuje namjenu ulaganja – npr. predračun, ugovor o kupovini opreme, ponuda izvođača radova ili drugi dokazi. Banka može zatražiti i dodatno obezbjeđenje u zavisnosti od iznosa i kreditne sposobnosti."
+    },
+    {
+      "original_question": "Da li je potrebna neka garancija za investicioni kredit?",
+      "normalized_question": "da li je potrebna neka garancija za investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Za odobrenje investicionog kredita potrebna je potvrda o redovnim primanjima, lična karta i dokumentacija koja potvrđuje namjenu ulaganja – npr. predračun, ugovor o kupovini opreme, ponuda izvođača radova ili drugi dokazi. Banka može zatražiti i dodatno obezbjeđenje u zavisnosti od iznosa i kreditne sposobnosti."
+    },
+    {
+      "original_question": "Šta mi treba da bih podnio zahtjev za investicioni kredit?",
+      "normalized_question": "šta mi treba da bih podnio zahtjev za investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Za odobrenje investicionog kredita potrebna je potvrda o redovnim primanjima, lična karta i dokumentacija koja potvrđuje namjenu ulaganja – npr. predračun, ugovor o kupovini opreme, ponuda izvođača radova ili drugi dokazi. Banka može zatražiti i dodatno obezbjeđenje u zavisnosti od iznosa i kreditne sposobnosti."
+    },
+    {
+      "original_question": "Da li trebam imati stalni posao da bih dobio investicioni kredit?",
+      "normalized_question": "da li trebam imati stalni posao da bih dobio investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Za odobrenje investicionog kredita potrebna je potvrda o redovnim primanjima, lična karta i dokumentacija koja potvrđuje namjenu ulaganja – npr. predračun, ugovor o kupovini opreme, ponuda izvođača radova ili drugi dokazi. Banka može zatražiti i dodatno obezbjeđenje u zavisnosti od iznosa i kreditne sposobnosti."
+    },
+    {
+      "original_question": "Da li je potrebno obezbjeđenje za investicioni kredit?",
+      "normalized_question": "da li je potrebno obezbjeđenje za investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Za odobrenje investicionog kredita potrebna je potvrda o redovnim primanjima, lična karta i dokumentacija koja potvrđuje namjenu ulaganja – npr. predračun, ugovor o kupovini opreme, ponuda izvođača radova ili drugi dokazi. Banka može zatražiti i dodatno obezbjeđenje u zavisnosti od iznosa i kreditne sposobnosti."
+    },
+    {
+      "original_question": "Kolika je kamata na investicioni kredit?",
+      "normalized_question": "kolika je kamata na investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Efektivna kamatna stopa i maksimalan iznos investicionog kredita zavise od visine prijavljenih primanja, kreditne sposobnosti, odnosa zaduženosti i procjene rizika. Nakon dostavljene dokumentacije možemo vam izračunati simulaciju koja sadrži tačnu kamatnu stopu, ukupan trošak kredita, iznos rate i rok otplate."
+    },
+    {
+      "original_question": "Koliki iznos investicionog kredita mogu dobiti?",
+      "normalized_question": "koliki iznos investicionog kredita mogu dobiti?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Efektivna kamatna stopa i maksimalan iznos investicionog kredita zavise od visine prijavljenih primanja, kreditne sposobnosti, odnosa zaduženosti i procjene rizika. Nakon dostavljene dokumentacije možemo vam izračunati simulaciju koja sadrži tačnu kamatnu stopu, ukupan trošak kredita, iznos rate i rok otplate."
+    },
+    {
+      "original_question": "Kako se određuje kamata za investicioni kredit?",
+      "normalized_question": "kako se određuje kamata za investicioni kredit?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Efektivna kamatna stopa i maksimalan iznos investicionog kredita zavise od visine prijavljenih primanja, kreditne sposobnosti, odnosa zaduženosti i procjene rizika. Nakon dostavljene dokumentacije možemo vam izračunati simulaciju koja sadrži tačnu kamatnu stopu, ukupan trošak kredita, iznos rate i rok otplate."
+    },
+    {
+      "original_question": "Od čega zavisi maksimalan iznos investicionog kredita?",
+      "normalized_question": "od čega zavisi maksimalan iznos investicionog kredita?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Efektivna kamatna stopa i maksimalan iznos investicionog kredita zavise od visine prijavljenih primanja, kreditne sposobnosti, odnosa zaduženosti i procjene rizika. Nakon dostavljene dokumentacije možemo vam izračunati simulaciju koja sadrži tačnu kamatnu stopu, ukupan trošak kredita, iznos rate i rok otplate."
+    },
+    {
+      "original_question": "Možete li mi napraviti simulaciju investicionog kredita?",
+      "normalized_question": "možete li mi napraviti simulaciju investicionog kredita?",
+      "category": "Investicioni kredit za stanovništvo",
+      "answer": "Efektivna kamatna stopa i maksimalan iznos investicionog kredita zavise od visine prijavljenih primanja, kreditne sposobnosti, odnosa zaduženosti i procjene rizika. Nakon dostavljene dokumentacije možemo vam izračunati simulaciju koja sadrži tačnu kamatnu stopu, ukupan trošak kredita, iznos rate i rok otplate."
+    },
+    {
+      "original_question": "Šta je potrošački kredit?",
+      "normalized_question": "šta je potrošački kredit?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Potrošački kredit je nenamjenski, što znači da sredstva možete koristiti potpuno slobodno – bez dostavljanja dokaza o trošenju. Klijenti ga najčešće koriste za putovanja, kupovinu tehnike, namještaja, školovanje, troškove liječenja ili bilo koju drugu potrebu."
+    },
+    {
+      "original_question": "Da li potrošački kredit mogu koristiti za bilo koju svrhu?",
+      "normalized_question": "da li potrošački kredit mogu koristiti za bilo koju svrhu?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Potrošački kredit je nenamjenski, što znači da sredstva možete koristiti potpuno slobodno – bez dostavljanja dokaza o trošenju. Klijenti ga najčešće koriste za putovanja, kupovinu tehnike, namještaja, školovanje, troškove liječenja ili bilo koju drugu potrebu."
+    },
+    {
+      "original_question": "Koja je razlika između nenamjenskog i namjenskog kredita?",
+      "normalized_question": "koja je razlika između nenamjenskog i namjenskog kredita?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Potrošački kredit je nenamjenski, što znači da sredstva možete koristiti potpuno slobodno – bez dostavljanja dokaza o trošenju. Klijenti ga najčešće koriste za putovanja, kupovinu tehnike, namještaja, školovanje, troškove liječenja ili bilo koju drugu potrebu."
+    },
+    {
+      "original_question": "Da li se potrošački kredit brzo odobrava?",
+      "normalized_question": "da li se potrošački kredit brzo odobrava?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Potrošački kredit je nenamjenski, što znači da sredstva možete koristiti potpuno slobodno – bez dostavljanja dokaza o trošenju. Klijenti ga najčešće koriste za putovanja, kupovinu tehnike, namještaja, školovanje, troškove liječenja ili bilo koju drugu potrebu."
+    },
+    {
+      "original_question": "Koliko je dokumentacije potrebno za nenamjenski kredit?",
+      "normalized_question": "koliko je dokumentacije potrebno za nenamjenski kredit?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Potrošački kredit je nenamjenski, što znači da sredstva možete koristiti potpuno slobodno – bez dostavljanja dokaza o trošenju. Klijenti ga najčešće koriste za putovanja, kupovinu tehnike, namještaja, školovanje, troškove liječenja ili bilo koju drugu potrebu."
+    },
+    {
+      "original_question": "Koliki je maksimalan rok otplate za potrošački kredit?",
+      "normalized_question": "koliki je maksimalan rok otplate za potrošački kredit?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Maksimalan rok otplate nenamjenskog kredita iznosi do 10 godina, u zavisnosti od iznosa i kreditne sposobnosti. Duži rok otplate znači manju mjesečnu ratu, ali i viši ukupan trošak kredita. Možemo napraviti nekoliko simulacija kako biste odabrali najpovoljniju opciju."
+    },
+    {
+      "original_question": "Kako se određuje rok otplate za nenamjenski kredit?",
+      "normalized_question": "kako se određuje rok otplate za nenamjenski kredit?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Maksimalan rok otplate nenamjenskog kredita iznosi do 10 godina, u zavisnosti od iznosa i kreditne sposobnosti. Duži rok otplate znači manju mjesečnu ratu, ali i viši ukupan trošak kredita. Možemo napraviti nekoliko simulacija kako biste odabrali najpovoljniju opciju."
+    },
+    {
+      "original_question": "Možete li mi izračunati ratu potrošačkog kredita?",
+      "normalized_question": "možete li mi izračunati ratu potrošačkog kredita?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Maksimalan rok otplate nenamjenskog kredita iznosi do 10 godina, u zavisnosti od iznosa i kreditne sposobnosti. Duži rok otplate znači manju mjesečnu ratu, ali i viši ukupan trošak kredita. Možemo napraviti nekoliko simulacija kako biste odabrali najpovoljniju opciju."
+    },
+    {
+      "original_question": "Zavisi li rok otplate od iznosa?",
+      "normalized_question": "zavisi li rok otplate od iznosa?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Maksimalan rok otplate nenamjenskog kredita iznosi do 10 godina, u zavisnosti od iznosa i kreditne sposobnosti. Duži rok otplate znači manju mjesečnu ratu, ali i viši ukupan trošak kredita. Možemo napraviti nekoliko simulacija kako biste odabrali najpovoljniju opciju."
+    },
+    {
+      "original_question": "Da li potrošački kredit može biti na 10 godina?",
+      "normalized_question": "da li potrošački kredit može biti na 10 godina?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Maksimalan rok otplate nenamjenskog kredita iznosi do 10 godina, u zavisnosti od iznosa i kreditne sposobnosti. Duži rok otplate znači manju mjesečnu ratu, ali i viši ukupan trošak kredita. Možemo napraviti nekoliko simulacija kako biste odabrali najpovoljniju opciju."
+    },
+    {
+      "original_question": "Da li mi treba puno papira za potrošački kredit?",
+      "normalized_question": "da li mi treba puno papira za potrošački kredit?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Ako imate tekući račun u našoj banci, odobravanje nenamjenskog kredita je znatno brže. Obično je dovoljna lična karta i potvrda o primanjima, a u pojedinim slučajevima možemo povući podatke elektronski. Postupak najčešće traje jedan radni dan."
+    },
+    {
+      "original_question": "Da li je lakše dobiti kredit ako imam račun u vašoj banci?",
+      "normalized_question": "da li je lakše dobiti kredit ako imam račun u vašoj banci?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Ako imate tekući račun u našoj banci, odobravanje nenamjenskog kredita je znatno brže. Obično je dovoljna lična karta i potvrda o primanjima, a u pojedinim slučajevima možemo povući podatke elektronski. Postupak najčešće traje jedan radni dan."
+    },
+    {
+      "original_question": "Koliko traje proces odobrenja nenamjenskog kredita?",
+      "normalized_question": "koliko traje proces odobrenja nenamjenskog kredita?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Ako imate tekući račun u našoj banci, odobravanje nenamjenskog kredita je znatno brže. Obično je dovoljna lična karta i potvrda o primanjima, a u pojedinim slučajevima možemo povući podatke elektronski. Postupak najčešće traje jedan radni dan."
+    },
+    {
+      "original_question": "Šta mi treba od dokumentacije za potrošački kredit?",
+      "normalized_question": "šta mi treba od dokumentacije za potrošački kredit?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Ako imate tekući račun u našoj banci, odobravanje nenamjenskog kredita je znatno brže. Obično je dovoljna lična karta i potvrda o primanjima, a u pojedinim slučajevima možemo povući podatke elektronski. Postupak najčešće traje jedan radni dan."
+    },
+    {
+      "original_question": "Da li je potrebna potvrda o primanjima za nenamjenski kredit?",
+      "normalized_question": "da li je potrebna potvrda o primanjima za nenamjenski kredit?",
+      "category": "Potrošački (nenamjenski) kredit",
+      "answer": "Ako imate tekući račun u našoj banci, odobravanje nenamjenskog kredita je znatno brže. Obično je dovoljna lična karta i potvrda o primanjima, a u pojedinim slučajevima možemo povući podatke elektronski. Postupak najčešće traje jedan radni dan."
+    },
+    {
+      "original_question": "Šta je overdraft?",
+      "normalized_question": "šta je overdraft?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Dozvoljeno prekoračenje ili overdraft je usluga koja vam omogućava da idete u minus na tekućem računu do unaprijed odobrenog limita. Sredstva koristite samo kada vam zatrebaju i plaćate kamatu samo za iznos koji ste iskoristili."
+    },
+    {
+      "original_question": "Kako funkcioniše prekoračenje po računu?",
+      "normalized_question": "kako funkcioniše prekoračenje po računu?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Dozvoljeno prekoračenje ili overdraft je usluga koja vam omogućava da idete u minus na tekućem računu do unaprijed odobrenog limita. Sredstva koristite samo kada vam zatrebaju i plaćate kamatu samo za iznos koji ste iskoristili."
+    },
+    {
+      "original_question": "Mogu li ići u minus na tekućem računu?",
+      "normalized_question": "mogu li ići u minus na tekućem računu?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Dozvoljeno prekoračenje ili overdraft je usluga koja vam omogućava da idete u minus na tekućem računu do unaprijed odobrenog limita. Sredstva koristite samo kada vam zatrebaju i plaćate kamatu samo za iznos koji ste iskoristili."
+    },
+    {
+      "original_question": "Da li sredstva iz overdrafta mogu koristiti odmah?",
+      "normalized_question": "da li sredstva iz overdrafta mogu koristiti odmah?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Dozvoljeno prekoračenje ili overdraft je usluga koja vam omogućava da idete u minus na tekućem računu do unaprijed odobrenog limita. Sredstva koristite samo kada vam zatrebaju i plaćate kamatu samo za iznos koji ste iskoristili."
+    },
+    {
+      "original_question": "Kako se otplaćuje overdraft?",
+      "normalized_question": "kako se otplaćuje overdraft?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Dozvoljeno prekoračenje ili overdraft je usluga koja vam omogućava da idete u minus na tekućem računu do unaprijed odobrenog limita. Sredstva koristite samo kada vam zatrebaju i plaćate kamatu samo za iznos koji ste iskoristili."
+    },
+    {
+      "original_question": "Koliki overdraft mogu dobiti?",
+      "normalized_question": "koliki overdraft mogu dobiti?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Visina odobrenog overdraft limita određuje se na osnovu prosječnog priliva u posljednjih nekoliko mjeseci. Što su primanja stabilnija i veća, to je i mogući limit veći. Nakon obrade zahtjeva možemo vam reći tačan iznos."
+    },
+    {
+      "original_question": "Od čega zavisi limit prekoračenja?",
+      "normalized_question": "od čega zavisi limit prekoračenja?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Visina odobrenog overdraft limita određuje se na osnovu prosječnog priliva u posljednjih nekoliko mjeseci. Što su primanja stabilnija i veća, to je i mogući limit veći. Nakon obrade zahtjeva možemo vam reći tačan iznos."
+    },
+    {
+      "original_question": "Kako se određuje iznos overdrafta?",
+      "normalized_question": "kako se određuje iznos overdrafta?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Visina odobrenog overdraft limita određuje se na osnovu prosječnog priliva u posljednjih nekoliko mjeseci. Što su primanja stabilnija i veća, to je i mogući limit veći. Nakon obrade zahtjeva možemo vam reći tačan iznos."
+    },
+    {
+      "original_question": "Da li moj prosjek primanja utiče na overdraft limit?",
+      "normalized_question": "da li moj prosjek primanja utiče na overdraft limit?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Visina odobrenog overdraft limita određuje se na osnovu prosječnog priliva u posljednjih nekoliko mjeseci. Što su primanja stabilnija i veća, to je i mogući limit veći. Nakon obrade zahtjeva možemo vam reći tačan iznos."
+    },
+    {
+      "original_question": "Možete li mi reći koliki overdraft mogu dobiti?",
+      "normalized_question": "možete li mi reći koliki overdraft mogu dobiti?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Visina odobrenog overdraft limita određuje se na osnovu prosječnog priliva u posljednjih nekoliko mjeseci. Što su primanja stabilnija i veća, to je i mogući limit veći. Nakon obrade zahtjeva možemo vam reći tačan iznos."
+    },
+    {
+      "original_question": "Koliko je komplikovana procedura za overdraft?",
+      "normalized_question": "koliko je komplikovana procedura za overdraft?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Aktiviranje overdrafta je veoma jednostavno – nakon zahtjeva potrebno je potpisati ugovor, a sredstva su dostupna odmah. U većini slučajeva overdraft se odobrava isti dan bez dodatne dokumentacije."
+    },
+    {
+      "original_question": "Da li je potrebna dokumentacija za overdraft?",
+      "normalized_question": "da li je potrebna dokumentacija za overdraft?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Aktiviranje overdrafta je veoma jednostavno – nakon zahtjeva potrebno je potpisati ugovor, a sredstva su dostupna odmah. U većini slučajeva overdraft se odobrava isti dan bez dodatne dokumentacije."
+    },
+    {
+      "original_question": "Koliko brzo se odobrava prekoračenje po računu?",
+      "normalized_question": "koliko brzo se odobrava prekoračenje po računu?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Aktiviranje overdrafta je veoma jednostavno – nakon zahtjeva potrebno je potpisati ugovor, a sredstva su dostupna odmah. U većini slučajeva overdraft se odobrava isti dan bez dodatne dokumentacije."
+    },
+    {
+      "original_question": "Mogu li odmah koristiti overdraft?",
+      "normalized_question": "mogu li odmah koristiti overdraft?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Aktiviranje overdrafta je veoma jednostavno – nakon zahtjeva potrebno je potpisati ugovor, a sredstva su dostupna odmah. U većini slučajeva overdraft se odobrava isti dan bez dodatne dokumentacije."
+    },
+    {
+      "original_question": "Kako se aktivira prekoračenje po računu?",
+      "normalized_question": "kako se aktivira prekoračenje po računu?",
+      "category": "Overdraft – prekoračenje po računu",
+      "answer": "Aktiviranje overdrafta je veoma jednostavno – nakon zahtjeva potrebno je potpisati ugovor, a sredstva su dostupna odmah. U većini slučajeva overdraft se odobrava isti dan bez dodatne dokumentacije."
+    },
+    {
+      "original_question": "Za šta mogu koristiti stambeni kredit?",
+      "normalized_question": "za šta mogu koristiti stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Stambeni kredit namijenjen je kupovini stana ili kuće, izgradnji vlastitog objekta, adaptaciji ili renoviranju. Možete finansirati i legalizaciju objekta, uređenje okućnice ili zamjenu stolarije."
+    },
+    {
+      "original_question": "Da li stambeni kredit pokriva renoviranje?",
+      "normalized_question": "da li stambeni kredit pokriva renoviranje?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Stambeni kredit namijenjen je kupovini stana ili kuće, izgradnji vlastitog objekta, adaptaciji ili renoviranju. Možete finansirati i legalizaciju objekta, uređenje okućnice ili zamjenu stolarije."
+    },
+    {
+      "original_question": "Mogu li kredit koristiti za izgradnju kuće?",
+      "normalized_question": "mogu li kredit koristiti za izgradnju kuće?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Stambeni kredit namijenjen je kupovini stana ili kuće, izgradnji vlastitog objekta, adaptaciji ili renoviranju. Možete finansirati i legalizaciju objekta, uređenje okućnice ili zamjenu stolarije."
+    },
+    {
+      "original_question": "Koji su uslovi za stambeni kredit?",
+      "normalized_question": "koji su uslovi za stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Stambeni kredit namijenjen je kupovini stana ili kuće, izgradnji vlastitog objekta, adaptaciji ili renoviranju. Možete finansirati i legalizaciju objekta, uređenje okućnice ili zamjenu stolarije."
+    },
+    {
+      "original_question": "Da li nudite povoljne kamate na stambene kredite?",
+      "normalized_question": "da li nudite povoljne kamate na stambene kredite?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Stambeni kredit namijenjen je kupovini stana ili kuće, izgradnji vlastitog objekta, adaptaciji ili renoviranju. Možete finansirati i legalizaciju objekta, uređenje okućnice ili zamjenu stolarije."
+    },
+    {
+      "original_question": "Da li je potrebna hipoteka za stambeni kredit?",
+      "normalized_question": "da li je potrebna hipoteka za stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Za stambeni kredit potrebna je standardna dokumentacija: lična karta, potvrda o primanjima, dokumentacija o nekretnini, validna procjena vrijednosti i obavezno zasnivanje hipoteke. Po potrebi banka može tražiti i dodatno obezbjeđenje."
+    },
+    {
+      "original_question": "Koja je dokumentacija potrebna za stambeni kredit?",
+      "normalized_question": "koja je dokumentacija potrebna za stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Za stambeni kredit potrebna je standardna dokumentacija: lična karta, potvrda o primanjima, dokumentacija o nekretnini, validna procjena vrijednosti i obavezno zasnivanje hipoteke. Po potrebi banka može tražiti i dodatno obezbjeđenje."
+    },
+    {
+      "original_question": "Da li moram imati obezbjeđenje za stambeni kredit?",
+      "normalized_question": "da li moram imati obezbjeđenje za stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Za stambeni kredit potrebna je standardna dokumentacija: lična karta, potvrda o primanjima, dokumentacija o nekretnini, validna procjena vrijednosti i obavezno zasnivanje hipoteke. Po potrebi banka može tražiti i dodatno obezbjeđenje."
+    },
+    {
+      "original_question": "Šta mi treba za podnošenje zahtjeva za stambeni kredit?",
+      "normalized_question": "šta mi treba za podnošenje zahtjeva za stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Za stambeni kredit potrebna je standardna dokumentacija: lična karta, potvrda o primanjima, dokumentacija o nekretnini, validna procjena vrijednosti i obavezno zasnivanje hipoteke. Po potrebi banka može tražiti i dodatno obezbjeđenje."
+    },
+    {
+      "original_question": "Da li je hipoteka obavezna?",
+      "normalized_question": "da li je hipoteka obavezna?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Za stambeni kredit potrebna je standardna dokumentacija: lična karta, potvrda o primanjima, dokumentacija o nekretnini, validna procjena vrijednosti i obavezno zasnivanje hipoteke. Po potrebi banka može tražiti i dodatno obezbjeđenje."
+    },
+    {
+      "original_question": "Kolika je kamata na stambeni kredit?",
+      "normalized_question": "kolika je kamata na stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Kamatna stopa zavisi od vrijednosti nekretnine, vaših primanja, roka otplate i tipa kamatne stope (fiksna, varijabilna ili kombinovana). Nakon procjene možemo pripremiti detaljnu simulaciju rata i troškova."
+    },
+    {
+      "original_question": "Od čega zavisi kamata za stambeni kredit?",
+      "normalized_question": "od čega zavisi kamata za stambeni kredit?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Kamatna stopa zavisi od vrijednosti nekretnine, vaših primanja, roka otplate i tipa kamatne stope (fiksna, varijabilna ili kombinovana). Nakon procjene možemo pripremiti detaljnu simulaciju rata i troškova."
+    },
+    {
+      "original_question": "Možete li mi napraviti simulaciju stambenog kredita?",
+      "normalized_question": "možete li mi napraviti simulaciju stambenog kredita?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Kamatna stopa zavisi od vrijednosti nekretnine, vaših primanja, roka otplate i tipa kamatne stope (fiksna, varijabilna ili kombinovana). Nakon procjene možemo pripremiti detaljnu simulaciju rata i troškova."
+    },
+    {
+      "original_question": "Da li se kamata razlikuje po vrsti nekretnine?",
+      "normalized_question": "da li se kamata razlikuje po vrsti nekretnine?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Kamatna stopa zavisi od vrijednosti nekretnine, vaših primanja, roka otplate i tipa kamatne stope (fiksna, varijabilna ili kombinovana). Nakon procjene možemo pripremiti detaljnu simulaciju rata i troškova."
+    },
+    {
+      "original_question": "Kako se određuje kamatna stopa?",
+      "normalized_question": "kako se određuje kamatna stopa?",
+      "category": "Stambeni kredit MF Banke",
+      "answer": "Kamatna stopa zavisi od vrijednosti nekretnine, vaših primanja, roka otplate i tipa kamatne stope (fiksna, varijabilna ili kombinovana). Nakon procjene možemo pripremiti detaljnu simulaciju rata i troškova."
+    },
+    {
+      "original_question": "Za šta služi kredit za poljoprivrednike?",
+      "normalized_question": "za šta služi kredit za poljoprivrednike?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Poljoprivredni krediti namijenjeni su finansiranju sezonskih radova, nabavci sjemena, đubriva, stočne hrane, mehanizacije, plastenika, sistema za navodnjavanje ili proširenja proizvodnje. Rokovi otplate i iznosi prilagođeni su poljoprivrednim ciklusima."
+    },
+    {
+      "original_question": "Da li kredit pokriva kupovinu mehanizacije?",
+      "normalized_question": "da li kredit pokriva kupovinu mehanizacije?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Poljoprivredni krediti namijenjeni su finansiranju sezonskih radova, nabavci sjemena, đubriva, stočne hrane, mehanizacije, plastenika, sistema za navodnjavanje ili proširenja proizvodnje. Rokovi otplate i iznosi prilagođeni su poljoprivrednim ciklusima."
+    },
+    {
+      "original_question": "Mogu li dobiti kredit za sjetvu?",
+      "normalized_question": "mogu li dobiti kredit za sjetvu?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Poljoprivredni krediti namijenjeni su finansiranju sezonskih radova, nabavci sjemena, đubriva, stočne hrane, mehanizacije, plastenika, sistema za navodnjavanje ili proširenja proizvodnje. Rokovi otplate i iznosi prilagođeni su poljoprivrednim ciklusima."
+    },
+    {
+      "original_question": "Da li nudite kredit za proširenje poljoprivrede?",
+      "normalized_question": "da li nudite kredit za proširenje poljoprivrede?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Poljoprivredni krediti namijenjeni su finansiranju sezonskih radova, nabavci sjemena, đubriva, stočne hrane, mehanizacije, plastenika, sistema za navodnjavanje ili proširenja proizvodnje. Rokovi otplate i iznosi prilagođeni su poljoprivrednim ciklusima."
+    },
+    {
+      "original_question": "Da li se uslovi prilagođavaju sezoni?",
+      "normalized_question": "da li se uslovi prilagođavaju sezoni?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Poljoprivredni krediti namijenjeni su finansiranju sezonskih radova, nabavci sjemena, đubriva, stočne hrane, mehanizacije, plastenika, sistema za navodnjavanje ili proširenja proizvodnje. Rokovi otplate i iznosi prilagođeni su poljoprivrednim ciklusima."
+    },
+    {
+      "original_question": "Koja dokumentacija je potrebna za poljoprivredni kredit?",
+      "normalized_question": "koja dokumentacija je potrebna za poljoprivredni kredit?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Za odobrenje poljoprivrednog kredita potrebna je lična karta, potvrda o primanjima (ako postoje), dokaz o bavljenju poljoprivredom poput potvrde MUP-a, Uvjerenja APIF-a ili izvadaka iz registra, kao i ponude ili predračuni za planiranu investiciju."
+    },
+    {
+      "original_question": "Da li moram dokazati da se bavim poljoprivredom?",
+      "normalized_question": "da li moram dokazati da se bavim poljoprivredom?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Za odobrenje poljoprivrednog kredita potrebna je lična karta, potvrda o primanjima (ako postoje), dokaz o bavljenju poljoprivredom poput potvrde MUP-a, Uvjerenja APIF-a ili izvadaka iz registra, kao i ponude ili predračuni za planiranu investiciju."
+    },
+    {
+      "original_question": "Da li postoje subvencionisane kamate?",
+      "normalized_question": "da li postoje subvencionisane kamate?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Za odobrenje poljoprivrednog kredita potrebna je lična karta, potvrda o primanjima (ako postoje), dokaz o bavljenju poljoprivredom poput potvrde MUP-a, Uvjerenja APIF-a ili izvadaka iz registra, kao i ponude ili predračuni za planiranu investiciju."
+    },
+    {
+      "original_question": "Šta mi treba za poljoprivredni kredit?",
+      "normalized_question": "šta mi treba za poljoprivredni kredit?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Za odobrenje poljoprivrednog kredita potrebna je lična karta, potvrda o primanjima (ako postoje), dokaz o bavljenju poljoprivredom poput potvrde MUP-a, Uvjerenja APIF-a ili izvadaka iz registra, kao i ponude ili predračuni za planiranu investiciju."
+    },
+    {
+      "original_question": "Da li je dokumentacija komplikovana?",
+      "normalized_question": "da li je dokumentacija komplikovana?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Za odobrenje poljoprivrednog kredita potrebna je lična karta, potvrda o primanjima (ako postoje), dokaz o bavljenju poljoprivredom poput potvrde MUP-a, Uvjerenja APIF-a ili izvadaka iz registra, kao i ponude ili predračuni za planiranu investiciju."
+    },
+    {
+      "original_question": "Kako se otplaćuje poljoprivredni kredit?",
+      "normalized_question": "kako se otplaćuje poljoprivredni kredit?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Otplata poljoprivrednih kredita može biti sezonska, što znači da se rate usklađuju sa ciklusima proizvodnje i periodima kada imate najveće prihode. Kod većine proizvoda postoji mogućnost odgođene prve rate do završetka sezone ili žetve."
+    },
+    {
+      "original_question": "Da li rate mogu biti prilagođene sezoni?",
+      "normalized_question": "da li rate mogu biti prilagođene sezoni?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Otplata poljoprivrednih kredita može biti sezonska, što znači da se rate usklađuju sa ciklusima proizvodnje i periodima kada imate najveće prihode. Kod većine proizvoda postoji mogućnost odgođene prve rate do završetka sezone ili žetve."
+    },
+    {
+      "original_question": "Mogu li otplaćivati kredit nakon žetve?",
+      "normalized_question": "mogu li otplaćivati kredit nakon žetve?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Otplata poljoprivrednih kredita može biti sezonska, što znači da se rate usklađuju sa ciklusima proizvodnje i periodima kada imate najveće prihode. Kod većine proizvoda postoji mogućnost odgođene prve rate do završetka sezone ili žetve."
+    },
+    {
+      "original_question": "Kako funkcioniše sezonska otplata kredita?",
+      "normalized_question": "kako funkcioniše sezonska otplata kredita?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Otplata poljoprivrednih kredita može biti sezonska, što znači da se rate usklađuju sa ciklusima proizvodnje i periodima kada imate najveće prihode. Kod većine proizvoda postoji mogućnost odgođene prve rate do završetka sezone ili žetve."
+    },
+    {
+      "original_question": "Da li su rate fleksibilne?",
+      "normalized_question": "da li su rate fleksibilne?",
+      "category": "Kredit za poljoprivrednike",
+      "answer": "Otplata poljoprivrednih kredita može biti sezonska, što znači da se rate usklađuju sa ciklusima proizvodnje i periodima kada imate najveće prihode. Kod većine proizvoda postoji mogućnost odgođene prve rate do završetka sezone ili žetve."
+    }
+  ],
+  "categories": [
+    "Investicioni kredit za stanovništvo",
+    "Potrošački (nenamjenski) kredit",
+    "Overdraft – prekoračenje po računu",
+    "Stambeni kredit MF Banke",
+    "Kredit za poljoprivrednike"
+  ],
+  "total_questions": 75
+}
